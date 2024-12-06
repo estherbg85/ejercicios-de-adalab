@@ -1,0 +1,12 @@
+.form {
+    display: flex;
+}
+
+.text {
+    font-size: 20px;
+    margin-inline: 15px;
+}
+
+.paragraph {
+    margin-left: 15px;
+}

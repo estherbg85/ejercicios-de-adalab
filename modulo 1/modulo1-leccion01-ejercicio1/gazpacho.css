@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(64, 167, 64);
+}
+title {
+    font-size: 24px ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #757575;
+}

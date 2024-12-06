@@ -1,0 +1,32 @@
+:root { /* html*/
+    /* estilos de texto(de las fuentes generales) */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+body {
+
+}
+.nombre_de_clase {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text , .subtitle {
+    color: blue;
+}
+.link {
+    color: aquamarine;
+}
+section-definition .link {
+    font-size: 30px;
+    color: red;
+}
+.text > .link {
+    font-size: 30px;
+    color: green;
+}
+. paragraph {
+    margin: 100px;
+    border: solid1px black;
+    padding: 100px;
+
+}

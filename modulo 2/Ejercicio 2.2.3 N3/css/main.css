@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.film {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+   
+}
+
+.btn {
+    
+    background-color: rgb(37, 214, 214);
+    color: white;
+    border: none;
+    height: 40px;
+    width: 95px;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+
+.btn:hover {
+    background-color: darkcyan;
+    transition:  background-color ease 0,10s;
+}
+
+.movies {
+    font-weight: bold;
+    padding-top: 15px;
+    list-style:  none;
+    padding-bottom: 20px;
+}

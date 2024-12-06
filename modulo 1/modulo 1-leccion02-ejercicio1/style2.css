@@ -1,0 +1,12 @@
+.boxmama {
+    width: 400px;
+}
+.Box {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+    padding: 100px;
+}
+.image {
+    width: 50px;
+}
