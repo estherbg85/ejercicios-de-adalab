@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.smile {
+    font-size: 150px;
+    padding-top: 180px;
+    padding-bottom: 100px;
+    font-weight: bold;
+   
+}
+.estado {  
+    padding-bottom: 100px;
+    margin-inline: 50px;
+    background-color: #ffcc00;
+    text-align: center;
+   
+}
+
+.animo {
+ 
+    margin-right: 10px;
+    text-align: center; 
+     font-weight: bold;
+    font-weight: bold;
+    font-size:18px;
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.btn {
+    
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgb(70, 130, 219);
+    color: white;
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+
+.hidden {
+    padding-bottom: 100px;
+    margin-inline: 50px;
+    background-color:#ff9900;
+    text-align: center;
+}
